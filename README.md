@@ -2,7 +2,7 @@
 
 # Budget Tracker <br /> ![Version](https://img.shields.io/github/v/release/journeycruz/BudgetTracker) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
 
-> Keep track of your income and expenses with this budget tracker. Add funds to represent your monthly income and subtract your monthly expenses automatically by inputting a transaction and clicking "Subtract Funds". Your finances will be saved to a MongoDB database and appended to a graph so that you can visualize your monthly income and spending and monitor spending habits. This is a progressive web application that can be used offline and downloaded as a standalone app.
+> Keep track of your income and expenses with this budget tracker. Add funds to represent your monthly income and subtract your monthly expenses automatically by inputting a transaction and clicking "Subtract Funds". Your finances will be saved to a MongoDB database and appended to a graph so that you can visualize your monthly income and monitor spending habits. This is a progressive web application that can be used offline and downloaded as a standalone app.
 
 ## Deployment
 
